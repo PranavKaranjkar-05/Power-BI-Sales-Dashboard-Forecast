@@ -24,8 +24,8 @@ This project is an interactive Power BI dashboard built to analyze sales perform
 ## 📊 Forecast Preview
 ![Forecast](forecast.png)
 
-## 🎥 Demo Video
-(Download and view the video from repository files)
+## 🎥 Demo Video  
+[Click here to watch demo](./dashboard_demo.mp4)
 
 ## 🚀 Key Insights
 
